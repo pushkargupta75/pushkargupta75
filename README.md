@@ -5,8 +5,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 I'm passionate about Full Stack Development & AI.
-- 🌱 Currently learning MERN stack + NLP.
+- 🎯 I'm passionate about Machine Learning Enthusiast & AI.
+- 🌱 Currently learning GenAI + NLP.
 - 🧠 Fun fact: I write better code than I write bios.
 - 😴 Sleep is for the weak... until my code runs.
 
