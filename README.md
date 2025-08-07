@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 I'm passionate about Machine Learning Enthusiast & AI.
+- 🎯 I'm passionate about Machine Learning & AI Enthusiast.
 - 🌱 Currently learning GenAI + NLP.
 - 🧠 Fun fact: I write better code than I write bios.
 - 😴 Sleep is for the weak... until my code runs.
