@@ -31,7 +31,6 @@
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/48px-PyTorch_logo_icon.svg.png" title="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/48px-Scikit_learn_logo_small.svg.png" title="Scikit-learn"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" title="Keras"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/48px-Matplotlib_icon.svg.png" title="Matplotlib"/>
