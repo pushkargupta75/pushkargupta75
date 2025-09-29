@@ -38,22 +38,14 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" title="Seaborn"/>
   <img src="https://img.icons8.com/color/48/000000/opencv.png" title="OpenCV"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" title="Hugging Face"/>
-  <img src="https://python.langchain.com/img/parrot-chainlink-icon.png" width="48" title="LangChain"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nltk/nltk.png" width="48" title="NLTK"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" title="FastAPI"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png" title="Jupyter"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" title="Streamlit"/>
@@ -64,21 +56,15 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkargupta75&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&height=180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkargupta75&layout=compact&langs_count=8&theme=tokyonight&height=180"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkargupta75&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushkargupta75&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pushkargupta75&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i>
